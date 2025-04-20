@@ -14,11 +14,18 @@
 
 课程资源开源共享，欢迎教师使用，学生自学，教育组织参与共建。
 
+We believe:
+
 Teach students not just to use AI — but to understand it.
+
 Understand not just how it works — but why it matters.
+
 AI101 is an open-source, future-facing curriculum for the AI-native generation.
+
 Through projects, modeling, reasoning, and reflection, we invite students to explore the nature of intelligence, the structure of algorithms, and the values behind the systems.
+
 Because the first step to shaping the future — is understanding it.
+
 ---
 ## 🗂 课程大纲（仅供参考，实际请以教学课程为准）
 
