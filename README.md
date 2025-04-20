@@ -10,7 +10,7 @@
 
 课程定位为“人工智能通识课”（AI General Education），融合计算建模、人机交互、伦理判断与未来思辨四大板块，致力于在中学阶段建立“技术理解 + 判断力 + 人文底层视角”的通识教育起点。
 
-课程以《Artificial Intelligence: A Modern Approach》（AIMA）(https://aima.cs.berkeley.edu/)为核心教材，参考[UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa24/)  的教学框架，结合前沿研究，采用讲授 + 项目式学习（PBL）+ 表达型评估的教学方式，帮助学生构建AI素养。
+课程以《Artificial Intelligence: A Modern Approach》（AIMA）(https://aima.cs.berkeley.edu/) 为核心教材，参考 [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa24/) 的教学框架，结合前沿研究，采用讲授 + 项目式学习（PBL）+ 表达型评估的教学方式，帮助学生构建AI素养。
 
 课程资源开源共享，欢迎教师使用，学生自学，教育组织参与共建。
 
