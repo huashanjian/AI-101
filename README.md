@@ -145,7 +145,7 @@ AI教育不是可选项，而是未来教育的必选项。但当下的AI教育�
 ## 🤝 如何参与
 
 欢迎中学教师、大学教授、cs/ai专业学生、中学生等加入课程共建！
-
+视频请自行前往哔哩哔哩查看：https://www.bilibili.com/video/BV1BaQDYyEQE/
 - 📧 联系方式：junhuayao41@gmail.com
 
 
